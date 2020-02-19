@@ -1,0 +1,1 @@
+{"Total": 326, "Active_Last_Month": 39, "Active_3_Month": 87, "Active_Last_Year": 220, "Percent_Last_Month": 0.1196319018404908, "Percent_3_Months": 0.2668711656441718, "Percent_12_Months": 0.6748466257668712}

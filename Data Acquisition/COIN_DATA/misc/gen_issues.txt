@@ -1,0 +1,1 @@
+{"Total_Issues": 8452, "Resolved_Issues": 8157, "Unresolved_Issues": 295, "Commented_Issues": 5015, "Comment_Count": 16423, "Percent_Commented": 0.5933506862281117, "Latest_Issue": "2020-01-20T16:14:27Z", "Percent_Resolved": 0.9650970184571699, "Percent_Unresolved": 0.0349029815428301}

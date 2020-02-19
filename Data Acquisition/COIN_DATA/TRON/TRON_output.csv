@@ -1,0 +1,47 @@
+RELEASES
+Release_Count,Latest_Release,Authors
+46,2020-01-13 06:03:04+00:00,"dict_keys(['tronfoundation', 'zhaohong', 'nanfengpo', 'Yrp', 'huzhenyuan', 'olenheim', 'wubin12', 'sean-liu55', 'renchenchang', 'wubin01', 'ithinker1991', 'shydesky', 'lvs007'])"
+
+BRANCHES
+Total,Active_Last_Month,Active_3_Month,Active_Last_Year,Percent_Last_Month,Percent_3_Months,Percent_12_Months
+120,20,80,113,0.16666666666666666,0.6666666666666666,0.9416666666666667
+
+FORKS
+Total,Latest_Fork,First_Fork
+667,2020-02-15T13:52:06Z,2017-12-26T10:57:51Z
+
+PULL REQUESTS
+Total_Requests,Unresolved_Pulls,Resolved_Pulls,Resolved_Pull_%,Unresolved_Pull_Percentage,Oldest_Unresolved_Pull_Req
+2398,3,2395,0.9987489574645538,0.0012510425354462051,2020-02-13T22:57:45Z
+
+Resolved Pull Requests
+Name,type: Bug,type: Enhancement,topic: Consensus,topic:Net,topic:DB,resolution: Wontfix,topic: Smart contract,type: Other,topic: Documentation
+amount,1,3,1,1,1,1,1,1,1
+percent,0.0004175365344467641,0.0012526096033402922,0.0004175365344467641,0.0004175365344467641,0.0004175365344467641,0.0004175365344467641,0.0004175365344467641,0.0004175365344467641,0.0004175365344467641
+
+ISSUES
+Total_Issues,Resolved_Issues,Unresolved_Issues,Commented_Issues,Comment_Count,Percent_Commented,Latest_Issue,Percent_Resolved,Percent_Unresolved
+2912,2905,7,1099,2688,0.37740384615384615,2020-02-16T11:41:39Z,0.9975961538461539,0.002403846153846154
+
+Resolved Issues
+Name,topic: Consensus,topic: Smart contract,topic: Block/Transaction,type: Bug,type: Other,type: Enhancement,topic: gRPC/HTTP api,topic: Documentation,topic: Build,topic: Deployment,topic:Net,topic: Testnet/Privatenet,topic: Performance,topic: Resource manage,topic: Solidity,topic:DB,topic: Event subscribe,type: Announcement,type: Question,resolution: Wontfix,type: Feature Request,resolution: Needs More Information
+amount,4,25,14,42,61,31,38,13,39,26,38,25,2,11,6,8,5,6,8,2,1,1
+percentage,0.001376936316695353,0.008605851979345954,0.004819277108433735,0.014457831325301205,0.02099827882960413,0.010671256454388985,0.013080895008605853,0.004475043029259896,0.01342512908777969,0.008950086058519793,0.013080895008605853,0.008605851979345954,0.0006884681583476765,0.0037865748709122204,0.002065404475043029,0.002753872633390706,0.0017211703958691911,0.002065404475043029,0.002753872633390706,0.0006884681583476765,0.00034423407917383823,0.00034423407917383823
+min_resolve_time,"1 day, 12:45:57",0:00:37,0:01:07,0:04:45,0:01:58,0:06:25,0:07:42,"2 days, 1:46:31",0:20:07,0:06:21,0:22:49,2:02:17,"7 days, 1:20:59","2 days, 1:05:46","2 days, 21:10:55",2:38:46,0:57:15,"9 days, 17:48:55",0:57:15,"2 days, 21:52:11","2 days, 21:52:11","4 days, 14:46:41"
+max_resolve_time,"178 days, 11:10:14","341 days, 18:21:36","328 days, 20:21:08","363 days, 16:45:28","379 days, 12:26:51","403 days, 18:09:06","343 days, 23:15:12","208 days, 21:07:56","309 days, 18:23:02","374 days, 9:03:26","283 days, 0:17:29","86 days, 8:12:42","7 days, 4:58:42","63 days, 22:24:56","366 days, 23:56:41","310 days, 22:50:05","93 days, 7:32:28","39 days, 6:18:24","6 days, 12:43:19","5 days, 18:24:30","2 days, 21:52:11","4 days, 14:46:41"
+median_resolve_time,"145 days, 23:42:31","7 days, 20:55:42","5 days, 20:40:28","33 days, 2:46:32","2 days, 21:55:29","20 days, 19:21:19","9 days, 9:34:20","29 days, 15:28:50","5 days, 19:25:27","13 days, 19:54:56","8 days, 9:23:13","3 days, 19:39:48","7 days, 4:58:42","23 days, 22:33:57","192 days, 1:36:36","58 days, 2:14:52","8 days, 22:45:42","14 days, 4:24:47","2 days, 20:45:19","5 days, 18:24:30","2 days, 21:52:11","4 days, 14:46:41"
+mean_resolve_time,"104 days, 12:16:09.750000","48 days, 14:29:33.800000","48 days, 18:21:35.785714","55 days, 8:27:52.333333","29 days, 15:13:13.868852","91 days, 17:42:22.967742","57 days, 13:27:27.473684","55 days, 12:11:03.846154","43 days, 15:50:17.897436","63 days, 14:54:28.961538","35 days, 22:43:19.657895","19 days, 17:07:46.320000","7 days, 3:09:50.500000","24 days, 18:55:09.363636","146 days, 13:45:07.666667","118 days, 17:50:10.875000","25 days, 23:41:14","16 days, 12:54:15.166667","2 days, 12:39:15.875000","4 days, 8:08:20.500000","2 days, 21:52:11","4 days, 14:46:41"
+
+Unresolved Issues
+Name,topic: gRPC/HTTP api,type: Bug,topic: Smart contract,type: Question
+amount,2,2,2,3
+percentage,0.2857142857142857,0.2857142857142857,0.2857142857142857,0.42857142857142855
+min_unresolved_time,"4 days, 20:09:12.012003","38 days, 12:57:42.012035","17 days, 15:19:45.012065","4 days, 20:09:12.012107"
+max_unresolved_time,"60 days, 16:45:35.011985","60 days, 16:45:35.012022","38 days, 12:57:42.012052","38 days, 12:57:42.012082"
+median_unresolved_time,"60 days, 16:45:35.011985","60 days, 16:45:35.012022","38 days, 12:57:42.012052","17 days, 15:19:45.012094"
+mean_unresolved_time,"32 days, 18:27:23.511994","49 days, 14:51:38.512028","28 days, 2:08:43.512058","20 days, 8:08:53.012094"
+
+Release/Issue overlap
+Release Names,Exodus-v1.0,Odyssey-v1.0,Odyssey-v1.0.1,Odyssey-v1.0.2,Odyssey-v1.0.3,Odyssey-v1.0.4,Odyssey-v1.0.5,Odyssey-v1.0.6,Odyssey-v1.0.6.1,Odyssey-v1.0.6.3,Odyssey-v3.01,Odyssey-v1.1,Odyssey-v1.1.1,Odyssey-v1.1.2,Odyssey-v2.0,Odyssey-v2.0.1,Odyssey-v2.0.2,Odyssey-v2.0.3,Odyssey-v2.0.4,Odyssey-v2.0.5,Odyssey-v2.0.4.1,Odyssey-v2.0.6,Odyssey-v2.0.7,Odyssey-v2.0.8,Odyssey-v2.0.8.1,Odyssey-v3.0,Odyssey-v3.0.1,Odyssey-v3.1.0,Odyssey-v3.1.1,Odyssey-v3.1.2,Odyssey-v3.1.3,Odyssey-v3.2,Odyssey-v3.2.1,Odyssey-v3.2.1.2,Odyssey-v3.2.2,Odyssey-v3.2.3,Odyssey-v3.2.4,Odyssey-v3.2.5,Odyssey-v3.5,Odyssey-v3.5.0.1,Odyssey-v3.5.1,Odyssey-v3.6.0,Odyssey-v3.6.1,Odyssey-v3.6.2,Odyssey-v3.6.5,Odyssey-v3.6.6
+Release Dates,2017-12-28T04:23:43Z,2018-03-29T09:59:59Z,2018-03-30T04:54:57Z,2018-03-31T03:27:13Z,2018-04-05T12:33:39Z,2018-04-13T12:57:37Z,2018-04-20T11:34:50Z,2018-05-07T04:35:17Z,2018-05-07T06:36:59Z,2018-05-10T12:00:20Z,2018-05-17T03:09:04Z,2018-05-18T14:15:01Z,2018-05-27T10:03:26Z,2018-05-31T07:56:18Z,2018-05-31T14:05:21Z,2018-06-05T10:33:11Z,2018-06-19T09:56:33Z,2018-06-20T09:40:02Z,2018-06-21T12:13:15Z,2018-06-24T04:10:16Z,2018-06-24T07:22:33Z,2018-07-11T07:53:54Z,2018-08-09T07:02:34Z,2018-08-14T06:43:07Z,2018-08-20T08:51:01Z,2018-08-29T12:48:12Z,2018-09-05T17:25:13Z,2018-09-10T06:10:18Z,2018-09-17T09:48:42Z,2018-10-11T15:53:07Z,2018-10-18T09:55:02Z,2018-11-28T14:39:06Z,2018-11-30T10:17:13Z,2018-12-07T08:09:01Z,2018-12-17T03:36:48Z,2018-12-24T09:25:51Z,2019-01-14T07:49:10Z,2019-01-25T07:33:37Z,2019-02-28T11:34:03Z,2019-03-01T04:56:16Z,2019-04-09T10:05:31Z,2019-06-19T11:10:58Z,2019-07-10T08:13:05Z,2019-08-07T11:30:53Z,2019-10-08T12:26:30Z,2020-01-13T06:03:04Z
+Issues in Release Range,23,40,39,28,18,40,26,46,46,46,58,43,40,63,55,30,49,59,54,25,23,19,29,18,19,30,51,47,14,13,19,25,24,13,9,13,8,8,14,13,19,11,10,10,17,21
